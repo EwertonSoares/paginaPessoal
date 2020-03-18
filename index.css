@@ -1,0 +1,22 @@
+#dados {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(218, 165, 165);
+}
+
+h1 {
+    margin-right: 20px;;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ol {
+    list-style-type: none;
+}
+
+img {
+    width: 130px;
+    height: 130px;
+    margin: 15px 40px 0px 40px;
+}
